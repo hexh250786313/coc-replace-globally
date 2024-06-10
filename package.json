@@ -1,6 +1,6 @@
 {
   "name": "@hexuhua/coc-replacement",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "hexh's global replacement plugin. DO NOT use it if you are NOT hexh!",
   "author": "hexh <250786313@qq.com>",
   "license": "MIT",
@@ -60,5 +60,6 @@
   },
   "dependencies": {
     "vscode-uri": "^3.0.3"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
 }
